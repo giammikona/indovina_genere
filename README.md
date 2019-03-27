@@ -10,3 +10,5 @@ Permette di inviare messaggi sms in base al genere del destinatario. Per utilizz
  - file .csv contenente almeno 2 colonne (numero di telefono, genere);
  - 3 file .txt contenenti i messaggi per genere (male, female. unknown);
  - nexmo installato ( https://www.nexmo.com/ ). E' possibile installarlo direttamente da prompt.
+
+linguaggio: python
